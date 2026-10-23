@@ -46,11 +46,17 @@ A full-stack cricket analytics dashboard that combines live API data with a SQL 
 
 ##  Projects
 
+## 📂 Projects
+
 | Project | Description | Stack |
 |---|---|---|
-| [Cricbuzz LiveStats](https://github.com/your-username/cricbuzz-livestats) | Cricket analytics dashboard with live API + SQL | Python, Streamlit, SQLite |
-| [Project 2](https://github.com/your-username/project-2) | Short one-line description | Tech, Tech |
-| [Project 3](https://github.com/your-username/project-3) | Short one-line description | Tech, Tech |
+| [Cricbuzz LiveStats](https://github.com/your-username/cricbuzz-livestats) | Cricket analytics dashboard integrating live Cricbuzz API data with SQL analytics (25 queries) and full CRUD operations | Python, Streamlit, SQLite, Requests, Pandas, REST API |
+| [EMIPredict AI](https://github.com/your-username/EMI-PREDICT-PROJECT) | Financial risk assessment platform predicting EMI eligibility (93.4% XGBoost accuracy) and max affordable EMI from 400K+ records, with MLflow tracking | Python, Pandas, NumPy, Scikit-learn, XGBoost, MLflow, Streamlit, Plotly |
+| [Brain Tumor MRI Classification](https://github.com/your-username/brain-tumor-mri-classification) | Deep learning project classifying brain MRI images into Glioma, Meningioma, Pituitary, and No Tumor classes | Python, TensorFlow/Keras, ResNet50, EfficientNetB0, Streamlit |
+| [DeepFER — Facial Emotion Recognition](https://github.com/riniyamary262/DEEPFER--FACIAL-EMOTION-RECOGNITION-WITH-DEEP-LEARNING) | CNN-based system recognizing 7 facial emotions from 70K+ images with a Streamlit web app and confidence scores | Python, TensorFlow, Keras, OpenCV, NumPy, Pandas, Scikit-learn, Streamlit |
+| [Tourism Experience Analytics](https://github.com/your-username/tourism-experience-analytics) | End-to-end tourism analytics: data cleaning, EDA, rating regression, visit-mode classification, and attraction recommendations | Python, Pandas, Scikit-learn, Streamlit, Joblib |
+| [Yes Bank EDA Project](https://github.com/riniyamary262/YES-BANK-EDA-PROJECT) | EDA of Yes Bank stock prices (2005–2020) analyzing volatility, seasonality, correlations, and moving-average trend signals | Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter |
+| [Zomato Data Analysis](https://github.com/riniyamary262/ZOMATO) | Exploratory data analysis on Zomato restaurant data to uncover ratings, cuisines, pricing, and location trends | Python, Pandas, Matplotlib, Seaborn, Jupyter |
 
 ---
 
